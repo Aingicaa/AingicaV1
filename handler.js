@@ -901,7 +901,7 @@ export async function participantsUpdate({ id, participants, action }) {
                         //this.sendFile(id, pp, 'pp.jpg', text, null, false, { mentions: [user] })
     this.sendHydrated(id, text, wm + '\n\n' + botdate, pp, sgc, (action == 'add' ? '💌 WELCOME' : '🐾 BYE'), user.split`@`[0], '🌹 USER', [
       ['ɪɴᴛʀᴏ', '/intro'],
-      [(action == 'add' ? '\n\nWADUH BEBAN GROUP NAMBAH 1 :(' : '\n\nBYE BEBAN! KLO BALIK LAGI KOCAK LU :)'), '...'],
+      [(action == 'add' ? '\n\nWADUH BEBAN GROUP NAMBAH 1 :(' : '\n\nBYE BEBAN! KLO BALIK LAGI ISTIGFAR LU :)'), '...'],
       [null, null]
     ], null, false, { mentions: [user] })
                         }
