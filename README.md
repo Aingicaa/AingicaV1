@@ -9,7 +9,7 @@
   <p>hidup itu sementara kawan</p>
   <p>Apa Yang Perlu Kamu sombongkan?</p>
 <p>Alwys Bersyukur yaa ><</p>
-<p><a href="https://tiktok.com/xyzica79/">- follow ya</a><p>
+<p><a href="https://instagram.com/shinkimori_xymizu?igshid=ZDdkNTZiNTM=">- follow ya</a><p>
   
 </div>
     <div align="center">
