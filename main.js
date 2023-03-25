@@ -147,7 +147,7 @@ const hehe = async (jid, options) => {
         }
       }
     }
-    const txt = `\n[ ✅ ] Berhasil Terhubung Ke SC Amelia-MD:v.\nTerimakasih @${jid.split`@`[0]}, Karena sudah memberikan script gratis ini.\n\n\n📑Sumber Script:\nPutraModzOfficial`
+    const txt = `\n[ ✅ ] Berhasil Terhubung Ke SC Shinkimori☘️🌿:v.\nTerimakasih @${jid.split`@`[0]}, Karena sudah memberikan script gratis ini.\n\n\n📑Sumber Script:\nPutraModzOfficial`
     return await conn.sendMessage(jid, { text: txt, mentions: [jid], ...options }, { quoted: fkontak, ephemeralExpiration: 86400, ...options })
   }
 }
